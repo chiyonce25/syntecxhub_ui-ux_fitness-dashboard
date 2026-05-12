@@ -1,0 +1,2 @@
+# SYNTECXHUB_UI-UX_Fitness-Dashboard
+A clean and modern Fitness Dashboard UI designed to track workouts, health stats, activity progress, calories burned, and fitness goals. Built with a focus on user experience, visual hierarchy, and responsive dashboard layout design.
